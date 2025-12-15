@@ -1,0 +1,44 @@
+# Python Virtual Environment directory (CRITICAL to ignore)
+venv/
+env/
+.venv/
+
+# Dependency packaging
+*.egg-info/
+.eggs/
+
+# Byte-code files
+*.py[cod]
+__pycache__/
+
+# Python build artifacts
+build/
+dist/
+*.tgz
+*.zip
+
+# Test/Coverage files
+.coverage
+htmlcov/
+.tox/
+
+.streamlit/
+
+/tmp/
+
+.env
+.env.local
+.flaskenv
+*.key
+*.pem
+*.p12
+
+.idea/
+.vscode/settings.json
+.vscode/*.local
+
+# macOS system files
+.DS_Store
+.localized
+# Windows system files
+Thumbs.db
