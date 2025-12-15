@@ -1,5 +1,5 @@
 colorama==0.4.4
-InquirerPy==0.3.4
 openrouter==0.1.1
 python-dotenv==1.2.1
 tree_sitter_language_pack==0.9.1
+streamlit==1.38.0
